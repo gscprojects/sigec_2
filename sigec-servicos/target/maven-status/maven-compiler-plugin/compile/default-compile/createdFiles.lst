@@ -1,0 +1,4 @@
+br\com\sigc\servicos\dao\testeConnectionRDS.class
+br\com\sigec\servicos\AutenticarUsuarioService.class
+br\com\sigc\servicos\dao\TesteConection.class
+br\com\sigc\servicos\dao\AutenticacaoDAO.class
